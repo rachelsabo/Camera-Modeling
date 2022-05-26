@@ -7,7 +7,7 @@ A graphic project implemented in Java, modelling a camera and constructing a gra
 The project contains a camera defined from a three-dimensional point - the camera center, And 3 vectors defining the different directions.
 The camera has a "ray" that is sent to the object and calculates the points of intersection with it.
 
-Then, I added to the project a class called "Scene" that describes the scene. The fields in this class will be:
+Then, I added to the project a class called "Scene" that describes the scene. The attributes in this class will be:
 
   * Name of the scene.
   * Background color.
