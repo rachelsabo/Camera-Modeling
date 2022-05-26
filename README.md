@@ -2,6 +2,7 @@
 
 A graphic project implemented in Java, modelling a camera and constructing a graphic scene.
 
+
 ## Project description:
 The project contains a camera defined from a three-dimensional point - the camera center, And 3 vectors defining the different directions.
 The camera has a "ray" that is sent to the object and calculates the points of intersection with it.
